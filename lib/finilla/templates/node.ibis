@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>
+        {{ node.meta_title || node.title || node.html|firsth|striptags }}
+    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/images/mstile-144x144.png">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+
+    <link rel="stylesheet" href="@root/theme.css">
+    <link rel="stylesheet" href="@root/pygments.css">
+    <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/images/favicon-194x194.png" sizes="194x194">
+    <link rel="icon" type="image/png" href="/images/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/images/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+
+    <link rel="apple-touch-icon" type="image/png" href="/images/apple-touch-icon-57x57.png" sizes="57x57">
+    <link rel="apple-touch-icon" type="image/png" href="/images/apple-touch-icon-60x60.png" sizes="60x60">
+    <link rel="apple-touch-icon" type="image/png" href="/images/apple-touch-icon-72x72.png" sizes="72x72">
+    <link rel="apple-touch-icon" type="image/png" href="/images/apple-touch-icon-76x76.png" sizes="76x76">
+    <link rel="apple-touch-icon" type="image/png" href="/images/apple-touch-icon-114x114.png" sizes="114x114">
+    <link rel="apple-touch-icon" type="image/png" href="/images/apple-touch-icon-120x120.png" sizes="120x120">
+    <link rel="apple-touch-icon" type="image/png" href="/images/apple-touch-icon-144x144.png" sizes="144x144">
+    <link rel="apple-touch-icon" type="image/png" href="/images/apple-touch-icon-152x152.png" sizes="152x152">
+    <link rel="apple-touch-icon" type="image/png" href="/images/apple-touch-icon-152x152.png" sizes="180x180">
+
+    <link rel="manifest" href="/images/manifest.json">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+
+    <!--[if lt IE 9]>
+        <script src="@root/html5shiv.js"></script>
+    <![endif]-->
+    {{ inc.head }}
+</head>
+
+<body class="{{{ classes }}}">
+
+    <header id="head" class="head">
+        <input id="menu-check" type="checkbox"/>
+        <label id="menu-label" for="menu-check" class="unselectable">
+            <span class="icon close">✕</span>
+            <span class="icon open">☰</span>
+            <span class="text">MENU</span>
+        </label>
+        {{ inc.menu || automenu }}
+    </header>
+
+    <article id="main" class="main">
+        {% if node.title %}
+            <h1>{{ node.title }}</h1>
+        {% endif %}
+        {{ node.html }}
+    </article>
+
+    {{ inc.foot }}
+
+</body>
+</html>

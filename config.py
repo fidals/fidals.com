@@ -14,7 +14,7 @@
 
 # Choose the theme to use when building your site. This variable should
 # specify the name of a theme directory in your site's 'lib' folder.
-theme = "graphite"
+theme = "finilla"
 
 
 # ------------------------------------------------------------------------------
