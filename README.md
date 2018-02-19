@@ -1,2 +1,2 @@
 # fidals.com
-Official site
+Official site and team's dev process.
