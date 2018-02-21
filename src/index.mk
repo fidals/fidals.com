@@ -24,7 +24,7 @@ Python - наш любимый язык, на нём сейчас у нас бо
 Если вы готовы попробовать, ознакомьтесь с [разделом для разработчиков](/dev).
 
 ## Контакты
-Андрей: [https://t.me/duker33](https://t.me/duker33),
+Андрей, [https://t.me/duker33](https://t.me/duker33),
 [duker33@gmail.com](mailto:duker33@gmail.com)
 
 [Гитхаб команды](https://github.com/fidals)
