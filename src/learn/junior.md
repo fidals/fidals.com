@@ -64,11 +64,14 @@
 А теперь посмотрим на каждую тему в отдельности.
 
 ## Питон
+- [learnxinyminutes with python](https://learnxinyminutes.com/docs/ru-ru/python3-ru/) - 
+быстро знакомимся с синтаксисом.
 - [http://pythontutor.ru/](http://pythontutor.ru/) - основы и упражнения по синтаксису. 
+- [https://python.swaroopch.com/](https://python.swaroopch.com/) - 
+по нашей версии, лучшая книга для начала. Есть русский перевод.
 - Онлайн-курс. Рекомендуем выбрать на одном из этих сервисов:
 [Stepik](https://stepik.org/), [edX](https://www.edx.org/),
 [Coursera](https://www.coursera.org/)
-Желательно изучать python3.
 
 
 ## Что такое БД
@@ -96,7 +99,7 @@
 
 1. http. [Гайд от Мозиллы](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 1. linux + linux bash.
-[Краткий гайд](https://github.com/Idnan/bash-guide)
+[Краткий гайд](https://github.com/Idnan/bash-guide) по башу
 или [подбробный гайд](http://guide.bash.academy/)
 1. nginx. [Официальный гайд](https://nginx.ru/ru/docs/beginners_guide.html)
 1. docker. [Официальный гайд](https://docs.docker.com/get-started/),

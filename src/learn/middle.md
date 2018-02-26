@@ -18,10 +18,19 @@
 
 
 ## Питон
-- Традиционно рекомендуют книгу Programming in python3
-[руc][https://www.ozon.ru/context/detail/id/4562082/],
-[англ](https://www.goodreads.com/book/show/11254236-programming-in-python-3).<br>
-- Я лично люблю лекции, рекомендую
+### Начать
+- [learnxinyminutes with python](https://learnxinyminutes.com/docs/ru-ru/python3-ru/) - 
+быстро знакомимся с синтаксисом.
+- [http://pythontutor.ru/](http://pythontutor.ru/) - основы и упражнения по синтаксису. 
+- [https://python.swaroopch.com/](https://python.swaroopch.com/) - 
+по нашей версии, лучшая книга для начала. Есть русский перевод.
+- Онлайн-курс. Рекомендуем выбрать на одном из этих сервисов:
+[Stepik](https://stepik.org/), [edX](https://www.edx.org/),
+[Coursera](https://www.coursera.org/)
+
+### Продолжить
+- [http://www.diveintopython3.net/](http://www.diveintopython3.net/) - продвинутый питон для продолжения.
+- Для тех, кто любит лекции, рекомендуем
 [вот эту от ComputerScienceClub](https://compscicenter.ru/courses/python/2015-autumn/classes/)
 
 
@@ -30,7 +39,7 @@
 
 1. http. [Гайд от Мозиллы](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 1. linux + linux bash.
-[Краткий гайд](https://github.com/Idnan/bash-guide)
+[Краткий гайд](https://github.com/Idnan/bash-guide) по Башу
 или [подбробный гайд](http://guide.bash.academy/)
 1. nginx. [Официальный гайд](https://nginx.ru/ru/docs/beginners_guide.html)
 1. docker. [Официальный гайд](https://docs.docker.com/get-started/),
