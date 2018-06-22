@@ -16,8 +16,8 @@ subtitle: бэкэнд разработка сервисов
 <div>
     <b>Обучение</b>
     <ul style="margin: 1rem 0">
-        <li><a href="/dev/junior_on_remote">Работать ли джуниору на удалёнке</a></li>
-        <li><a href="/dev/with_windows">Готовим Windows к веб-разработке</a></li>
+        <li><a href="/dev/junior-on-remote">Работать ли джуниору на удалёнке</a></li>
+        <li><a href="/dev/with-windows">Готовим Windows к веб-разработке</a></li>
         <li><a href="/learn/junior">Материалы для обучения джуниора Питону и вебу</a></li>
         <li><a href="/learn/middle">Материалы для обучения миддла Питону и вебу</a></li>
     </ul>
@@ -26,7 +26,7 @@ subtitle: бэкэнд разработка сервисов
 <div>
     <b>Работа с Фидалс</b>
     <ul style="margin: 1rem 0">
-        <li><a href="/dev/test_process">Тестовое задание</a></li>
+        <li><a href="/dev/test-process">Тестовое задание</a></li>
     </ul>
 </div>
 <br>
