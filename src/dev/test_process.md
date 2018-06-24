@@ -14,7 +14,7 @@
 Если вы успешно прошли тест, мы включаем вас в команду, даём более интересные задачи.
 Подробнее об этом - в конце этой страницы.
 
-![Some test](/out/images/dev/test_process.jpg)
+![Some test](/images/dev/test_process.jpg)
 
 ## Работа в github
 Мы работаем по стандартному [github flow](https://guides.github.com/introduction/flow/).

@@ -3,7 +3,7 @@
 Дата: 19.03.18 <br>
 Автор: Андрей, [@duker33](https://t.me/duker33)
 
-![Windows background](/out/images/dev/with_windows/background.jpg)
+![Windows background](/images/dev/with_windows/background.jpg)
 
 Расскажу, что как я работаю с веб-бэкэндом из-под Винды.
 Я не специалист в администрировании ОС и Винды в частности.
