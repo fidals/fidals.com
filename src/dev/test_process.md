@@ -10,6 +10,10 @@
 Чтобы пройти тест, сделайте эту задачу за *пять календарных дней*.
 Все сделанные задачи оплачиваем по факту. Неважно - тестовые они или нет.
 
+- Списки задач на выбор (создан 25.06.18):
+    - [Сайт shopelectro](https://github.com/fidals/shopelectro/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+no%3Aassignee+label%3A%22take+it%22+-label%3A1+label%3Aeasy+)
+    - [Сайт stroyprombeton](https://github.com/fidals/stroyprombeton/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+no%3Aassignee+label%3A%22take+it%22+-label%3A1+label%3Aeasy+)
+
 ## После теста
 Если вы успешно прошли тест, мы включаем вас в команду, даём более интересные задачи.
 Подробнее об этом - в конце этой страницы.
